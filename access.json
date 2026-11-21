@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "msg": "Erisim kapali",
+  "keys": {
+    "11b335bfeb641d510bc624aa1742c53d417d999b8b0839677ea53e88352f1d00": {
+      "id": "k1",
+      "label": "arkadas-1",
+      "exp": 1795869895,
+      "revoked": false,
+      "uid": 0
+    }
+  }
+}
