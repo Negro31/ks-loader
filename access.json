@@ -6,7 +6,7 @@
       "id": "k1",
       "label": "arkadas-1",
       "exp": 1795869895,
-      "revoked": false,
+      "revoked": true,
       "uid": 0
     }
   }
